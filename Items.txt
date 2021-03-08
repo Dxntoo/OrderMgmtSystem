@@ -1,0 +1,6 @@
+Item Id||Item Name||Size||Item Price||Item Quantity
+I001||Small Box||100 x 100||5.0||997
+I002||Small-Medium Box||150 x 150||15.0||1000
+I003||Medium Box||200 x 200||25.0||993
+I004||Medium-Large Box||250 x 250||40.0||998
+I005||Large Box||300 x 300||50.0||898
